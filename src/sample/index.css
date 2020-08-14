@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  /* border: 2px solid black; */
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 75px;
+}
+h1 {
+  font-weight: 900;
+  color: rgb(39, 38, 38);
+  font-size: 45px;
+  /* margin-bottom: -10px; */
+}
+.setMargin {
+  margin-top: -40px;
+}
+hr {
+  height: 2px;
+  background-color: grey;
+  border: none;
+  width: 70%;
+}
+p {
+  margin: 0px;
+  color: grey;
+}
+
+Button {
+  border: 1px solid rgb(131, 126, 126) !important;
+  background-color: rgb(199, 194, 194) !important;
+  text-transform: capitalize !important;
+}
+.bodystyle {
+  box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.3);
+  width: 80%;
+  margin: auto;
+  background-color: rgb(221, 217, 217);
+}
+.heading {
+  text-align: center;
+  font-size: 40px;
+}
+.container {
+  width: 50%;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+img {
+  border: 2px solid grey;
+}
+.endline {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
