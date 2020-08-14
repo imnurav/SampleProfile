@@ -1,7 +1,7 @@
 {
   "name": "sampleuserprofile",
   "version": "0.1.0",
-  "homepage": "https://github.com/kumarnurav9811/googlekeep",
+  "homepage": "https://github.com/kumarnurav9811/SampleProfile",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
